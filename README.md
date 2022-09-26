@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Waddup <strong>シ</strong> , I'm Felipe Viana</h1>
+  <h1 align="left">Sup <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Viana</h1>
 </div>
 
 <div>
