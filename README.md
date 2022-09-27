@@ -7,6 +7,7 @@
   
   - 💼 I’m currently looking for internship
   - 📚 I'm currently studying Python
+  - 🎓 Really excited and proative to learn more
 </div>
 
 <div style="display: inline_block;">
@@ -15,7 +16,7 @@
 </div>  
 
 <div style="display: inline_block">
-  <h3>I know a little bit (or try to):</h3>
+  <h3>I know a little bit:</h3>
   <img align="center" alt="HTML" title="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" title="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
