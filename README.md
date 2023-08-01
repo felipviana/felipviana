@@ -13,7 +13,7 @@
 <div style="display: inline_block;">
   <h3>Most used:</h3>
   <img align="center" alt="Java" title="Java" height="30" width="30"
-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </div>  
 
 <div style="display: inline_block">
