@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipviana&color=red" alt="Profile views"/></p>
   
   - 💼 I’m currently looking for internship
-  - 📚 I'm currently studying Python and gonna start Java
+  - 📚 I'm currently studying Java
   - 🎓 Really excited and proative to learn more
 </div>
 
