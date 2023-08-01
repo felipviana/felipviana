@@ -12,7 +12,8 @@
 
 <div style="display: inline_block;">
   <h3>Most used:</h3>
-  <img align="center" alt="Python" title="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" title="Java" height="30" width="30"
+src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg">
 </div>  
 
 <div style="display: inline_block">
@@ -21,6 +22,7 @@
   <img align="center" alt="CSS" title="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" title="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="C" title="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
   ##
