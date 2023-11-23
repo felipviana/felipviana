@@ -19,18 +19,13 @@
 </div>  
 
   ##
-  <div>
-    <h3>Languages:</h3>
-    <img src="https://flagcdn.com/br.svg" width="30" alt="Brazilian Portuguese" title="Portuguese">
-    <img src="https://flagcdn.com/gb.svg" width="30" height="22" alt="English" title="English">
-  </div>
   
 <div>
   <h3>Contact:</h3>
   <a href = "https://api.whatsapp.com/send?phone=5583988501967"><img src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" target="_blank"></a>
   <a href = "mailto:fabiofelipevianasantosfacul@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" target="_blank"></a>
   <a href="https://www.instagram.com/_f3lp5_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fábio-felipe-santos-viana-346a07244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-viana-346a07244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" target="_blank"></a>
 </div>
 
 ##
