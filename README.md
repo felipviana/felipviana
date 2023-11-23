@@ -37,6 +37,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 
 <div align="center">
   <a href="https://github.com/felipviana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipviana&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipviana&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipviana&layout=compact&langs_count=7&theme=blueberry&locale=pt-br"/>
 </div>
