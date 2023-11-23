@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block;">
-  <h3>tecnologies:</h3>
+  <h3>Tecnologies:</h3>
   <img align="center" alt="Java" title="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="PHP" title="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="C" title="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
